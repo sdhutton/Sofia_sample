@@ -1,6 +1,6 @@
 title: "My Portfolio"
 description: "A simple portfolio website"
-theme: cayman
+theme: jekyll-theme-cayman
 
 # Navigation
 navigation:

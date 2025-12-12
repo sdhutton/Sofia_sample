@@ -1,3 +1,9 @@
+---
+layout: default
+title: About
+permalink: /
+---
+
 # Welcome to My Portfolio
 
 Hello! I'm a student passionate about learning and creating. This is my personal portfolio website where I showcase my work, interests, and experiences.

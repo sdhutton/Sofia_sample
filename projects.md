@@ -1,3 +1,9 @@
+---
+layout: default
+title: Projects
+permalink: /projects/
+---
+
 # My Projects
 
 Here are some of the projects I've been working on. Each project represents a learning opportunity and a chance to apply new skills.

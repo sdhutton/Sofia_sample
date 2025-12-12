@@ -1,3 +1,9 @@
+---
+layout: default
+title: Contact
+permalink: /contact/
+---
+
 # Get In Touch
 
 I'd love to connect! Feel free to reach out through any of the following channels.

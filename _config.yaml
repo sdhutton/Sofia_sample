@@ -1,0 +1,13 @@
+title: "My Portfolio"
+description: "A simple portfolio website"
+theme: cayman
+
+# Navigation
+navigation:
+  - title: About
+    url: /
+  - title: Projects
+    url: /projects
+  - title: Contact
+    url: /contact
+

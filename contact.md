@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Contact
+title: Contact Information
 permalink: /contact/
+description: Let's work on something great!
 ---
 
 # Get In Touch

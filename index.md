@@ -1,7 +1,8 @@
 ---
 layout: default
-title: About
+title: About Me
 permalink: /
+description: Welcome to my website!
 ---
 
 # Welcome to My Portfolio

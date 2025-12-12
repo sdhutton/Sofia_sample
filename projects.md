@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Projects
+title: Recent Projects
 permalink: /projects/
+description: You can find me in the intersection of public policy and data.
 ---
 
 # My Projects

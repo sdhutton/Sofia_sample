@@ -44,6 +44,7 @@ TODO Brief description of what this project does and why it's interesting. Key f
 **What I Learned**: 
 - Key learning point 1
 - Key learning point 2
+- Key learning point 3
 
 **Link**: [Project Link or GitHub Repository](#)
 
